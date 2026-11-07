@@ -64,7 +64,7 @@ void inOrder(BiTree T)
 	inOrder(T->rchild);
 }
 //后序遍历
-
+//ok
 void postOrder(BiTree T)
 {
 	if (T == NULL)
