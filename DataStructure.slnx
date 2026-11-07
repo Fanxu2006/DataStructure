@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Complex/Complex.vcxproj" Id="756a0d84-d9bb-49f1-a3b7-83c2194f0330" />
+  <Project Path="DataStructure/DataStructure.vcxproj" Id="e16dd6c1-30e1-4acb-8688-d6552ffa4d7e" />
+  <Project Path="Squential List/Squential List.vcxproj" Id="faae5942-a823-4972-93de-dcbd16f29fff" />
+  <Project Path="Stack And Queque/Stack And Queque.vcxproj" Id="6f7846e8-1c19-4921-ad1a-54237a18e255" />
+  <Project Path="tree/tree.vcxproj" Id="af0ea750-cdcb-4548-b105-bea135bde16d" />
+</Solution>
